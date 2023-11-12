@@ -32,3 +32,4 @@ print_r(explode("\t", $data));
 キューは先入れ先出し（FIFO）と呼ばれ、最初に格納した要素を最初に取り出すデータ構造です。<br>
 スタックはarray_push/array_pop関数の組み合わせで、<br>
 キューはarray_push/array_shift関数の組み合わせでそれぞれ実装できます。<br>
+<br>
