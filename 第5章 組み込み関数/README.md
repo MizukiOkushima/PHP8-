@@ -33,4 +33,4 @@ print_r(explode("\t", $data));
 スタックはarray_push/array_pop関数の組み合わせで、<br>
 キューはarray_push/array_shift関数の組み合わせでそれぞれ実装できます。<br>
 <br>
-今日は、sort関数を勉強した。
+今日は、sort関数を勉強したつもりになってた。
